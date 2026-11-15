@@ -84,7 +84,7 @@ One concept per URL in the live sitemap fetched 2026-11-14. Exact total: 184 URL
 ## Work — 26
 
 - [Work](work.md) — https://www.blackanchordesign.com/work (lastmod 2026-11-12)
-- [Avid Roofing Waterproofing](work/avid-roofing-waterproofing.md) — https://www.blackanchordesign.com/work/avid-roofing-waterproofing (lastmod 2026-11-12)
+- [AVID Roofing & Waterproofing — Case Study](work/avid-roofing-waterproofing.md) — https://www.blackanchordesign.com/work/avid-roofing-waterproofing (lastmod 2026-11-12; enriched 2026-11-15 from the live page)
 - [Berry Bites Cafe](work/berry-bites-cafe.md) — https://www.blackanchordesign.com/work/berry-bites-cafe (lastmod 2026-11-11)
 - [Buffs Bbq And Grill](work/buffs-bbq-and-grill.md) — https://www.blackanchordesign.com/work/buffs-bbq-and-grill (lastmod 2026-11-11)
 - [C H Hardwoods](work/c-h-hardwoods.md) — https://www.blackanchordesign.com/work/c-h-hardwoods (lastmod 2026-11-12)
