@@ -1,0 +1,9 @@
+# Log
+
+## 2026-11-14
+- Bundle created and reviewed by Bobby Robinson.
+- Built only from facts verified against blackanchordesign.com, Bobby's live Google Business Profile, and Bobby's own corrections through 2026-11-14.
+- Expanded same day to cover all site pages: live sitemap fetched (single urlset, exact total 184 URLs, latest lastmod 2026-11-13), one coverage concept added per URL under `pages/`, grouped by section, plus `pages/index.md` and a sitemap inventory CSV alongside the bundle. Page concepts are sitemap stubs (URL, section, type, lastmod; title derived from URL slug) — not full-content summaries.
+
+## 2026-11-15
+- Published at knowledge.blackanchordesign.com.
