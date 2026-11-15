@@ -7,3 +7,4 @@
 
 ## 2026-11-15
 - Published at knowledge.blackanchordesign.com.
+- Enriched `pages/work/avid-roofing-waterproofing.md` from the live case study page: sitemap stub replaced with a full summary (brief, deliverables, technical setup, targets, testimonial) and a `sources` entry. Marked `status: draft` until Bobby reviews.
