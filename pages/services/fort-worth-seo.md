@@ -1,10 +1,14 @@
 ---
 type: Service Page
 title: "Fort Worth SEO — Black Anchor Design"
-description: "Black Anchor Design page in the Services section at /services/fort-worth-seo - sitemap last modified 2026-11-13."
+description: "Technical SEO, local search and reporting for contractors and B2B businesses."
 resource: https://www.blackanchordesign.com/services/fort-worth-seo
 tags: [services, site-page, fort-worth-seo]
-timestamp: 2026-11-13
+timestamp: 2026-11-19
+sources:
+  - id: live-page
+    resource: https://www.blackanchordesign.com/services/fort-worth-seo
+    author: Black Anchor Design
 ---
 
 # Fort Worth SEO — Black Anchor Design
@@ -12,7 +16,11 @@ timestamp: 2026-11-13
 - **Live page:** https://www.blackanchordesign.com/services/fort-worth-seo
 - **Path:** /services/fort-worth-seo
 - **Section:** Services
-- **Sitemap last modified:** 2026-11-13
+- **Summary updated:** 2026-11-19
 - **Business:** [Black Anchor Design](../../business/black-anchor-design.md)
 
-Inventory coverage concept generated 2026-11-14 from the live sitemap (lastmod shown). Title is derived from the URL slug — it is not a claim about the page's full content. Enrich from the live page before relying on detailed claims from this stub.
+The service combines technical SEO, crawlable service pages, Google Business Profile work and consistent business listings. Reporting covers commercially relevant search terms, Search Console impressions and clicks, local visibility where relevant, and leads when measurement is configured.
+
+SEO improves search accessibility and relevance. Answer engine optimization (AEO) answers specific buyer questions. Generative engine optimization (GEO) makes credible information easier for AI systems to retrieve and summarize. Reports may record observable AI mentions or citations for selected buyer questions. AI answers vary, and attribution is limited.
+
+Related: [Local SEO](../../services/local-seo.md), [Web Design](fort-worth-web-design.md).

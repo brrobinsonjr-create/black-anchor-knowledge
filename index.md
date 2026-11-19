@@ -14,7 +14,9 @@ Knowledge about Black Anchor Design, LLC, a Fort Worth web design and branding c
 ## Services
 - [Web Design — Fort Worth](services/web-design-fort-worth.md)
 - [SEO — Fort Worth](services/seo-fort-worth.md)
+- [Brand Strategy](pages/services/fort-worth-brand-strategy.md)
 - [Branding](services/branding.md)
+- [Print Design](pages/services/fort-worth-print-design.md)
 - [Local SEO](services/local-seo.md)
 - [Shopify Web Design](services/shopify-web-design.md)
 
@@ -35,4 +37,4 @@ Knowledge about Black Anchor Design, LLC, a Fort Worth web design and branding c
 - [Buyer FAQs](faqs/buyer-faqs.md)
 
 ## All Site Pages (expanded 2026-11-14)
-- [All Site Pages](pages/index.md) — one coverage concept for every URL in the live sitemap: 184 pages (Services 14, Industries 13, Service Areas 23, About 5, Pricing 8, Work 26, Blog/Posts 40, Other site pages 55). These are inventory stubs from the sitemap (URL, section, lastmod), not full-content summaries — the 17 curated concepts above remain the deep, verified source.
+- [All Site Pages](pages/index.md) — one coverage concept for every URL in the live sitemap: 184 pages (Services 14, Industries 13, Service Areas 23, About 5, Pricing 8, Work 26, Blog/Posts 40, Other site pages 55). The index records the November 14 sitemap snapshot. Selected records include summaries sourced from the live pages.

@@ -8,3 +8,7 @@
 ## 2026-11-15
 - Published at knowledge.blackanchordesign.com.
 - Enriched `pages/work/avid-roofing-waterproofing.md` from the live case study page: sitemap stub replaced with a full summary (brief, deliverables, technical setup, targets, testimonial) and a `sources` entry. Marked `status: draft` until Bobby reviews.
+
+## 2026-11-19
+- Added summaries for Web Design, SEO, Brand Strategy, Branding and Print Design from the published service pages.
+- Cross-linked the service records and aligned the pricing overview and buyer FAQ with the published standard packages and separate Recruit offer.

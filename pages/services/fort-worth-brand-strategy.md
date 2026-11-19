@@ -1,10 +1,14 @@
 ---
 type: Service Page
 title: "Fort Worth Brand Strategy — Black Anchor Design"
-description: "Black Anchor Design page in the Services section at /services/fort-worth-brand-strategy - sitemap last modified 2026-11-12."
+description: "Competitive research, decision-maker profiles, positioning and messaging for established businesses."
 resource: https://www.blackanchordesign.com/services/fort-worth-brand-strategy
 tags: [services, site-page, fort-worth-brand-strategy]
-timestamp: 2026-11-12
+timestamp: 2026-11-19
+sources:
+  - id: live-page
+    resource: https://www.blackanchordesign.com/services/fort-worth-brand-strategy
+    author: Black Anchor Design
 ---
 
 # Fort Worth Brand Strategy — Black Anchor Design
@@ -12,7 +16,11 @@ timestamp: 2026-11-12
 - **Live page:** https://www.blackanchordesign.com/services/fort-worth-brand-strategy
 - **Path:** /services/fort-worth-brand-strategy
 - **Section:** Services
-- **Sitemap last modified:** 2026-11-12
+- **Summary updated:** 2026-11-19
 - **Business:** [Black Anchor Design](../../business/black-anchor-design.md)
 
-Inventory coverage concept generated 2026-11-14 from the live sitemap (lastmod shown). Title is derived from the URL slug — it is not a claim about the page's full content. Enrich from the live page before relying on detailed claims from this stub.
+The strategy documents who the company serves, where it stands apart and what evidence backs its claims. Deliverables cover a competitive audit, buyer profiles, core messages, proof points and voice guidance.
+
+The strategy reflects what different buyers check. Owners weigh experience and value. General contractors assess comparable work, scope and capacity. Procurement reviewers check documented requirements. Facilities managers look at technical capabilities, response expectations and service coverage.
+
+Related: [Branding](fort-worth-branding.md), [Print Design](fort-worth-print-design.md).

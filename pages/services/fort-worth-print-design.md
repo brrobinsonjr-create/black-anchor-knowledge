@@ -1,10 +1,14 @@
 ---
 type: Service Page
 title: "Fort Worth Print Design — Black Anchor Design"
-description: "Black Anchor Design page in the Services section at /services/fort-worth-print-design - sitemap last modified 2026-11-12."
+description: "Capability statements, qualifications packages, proposals and branded print for commercial buyers."
 resource: https://www.blackanchordesign.com/services/fort-worth-print-design
 tags: [services, site-page, fort-worth-print-design]
-timestamp: 2026-11-12
+timestamp: 2026-11-19
+sources:
+  - id: live-page
+    resource: https://www.blackanchordesign.com/services/fort-worth-print-design
+    author: Black Anchor Design
 ---
 
 # Fort Worth Print Design — Black Anchor Design
@@ -12,7 +16,11 @@ timestamp: 2026-11-12
 - **Live page:** https://www.blackanchordesign.com/services/fort-worth-print-design
 - **Path:** /services/fort-worth-print-design
 - **Section:** Services
-- **Sitemap last modified:** 2026-11-12
+- **Summary updated:** 2026-11-19
 - **Business:** [Black Anchor Design](../../business/black-anchor-design.md)
 
-Inventory coverage concept generated 2026-11-14 from the live sitemap (lastmod shown). Title is derived from the URL slug — it is not a claim about the page's full content. Enrich from the live page before relying on detailed claims from this stub.
+A capability statement gives buyers a quick reference for a company’s core capabilities, comparable projects, verified certifications, differentiators and contact details. Larger bid responses can include proposal covers, qualifications packages and project experience sheets, depending on scope.
+
+Consistent service names, project details and visual standards help buyers connect the company’s website, printed materials and PDFs during a review.
+
+Related: [Brand Strategy](fort-worth-brand-strategy.md), [Branding](fort-worth-branding.md).

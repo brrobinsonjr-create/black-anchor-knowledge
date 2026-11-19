@@ -1,10 +1,14 @@
 ---
 type: Service Page
 title: "Fort Worth Branding — Black Anchor Design"
-description: "Black Anchor Design page in the Services section at /services/fort-worth-branding - sitemap last modified 2026-11-12."
+description: "Brand identity systems for contractors and B2B companies across digital, sales and field materials."
 resource: https://www.blackanchordesign.com/services/fort-worth-branding
 tags: [services, site-page, fort-worth-branding]
-timestamp: 2026-11-12
+timestamp: 2026-11-19
+sources:
+  - id: live-page
+    resource: https://www.blackanchordesign.com/services/fort-worth-branding
+    author: Black Anchor Design
 ---
 
 # Fort Worth Branding — Black Anchor Design
@@ -12,7 +16,11 @@ timestamp: 2026-11-12
 - **Live page:** https://www.blackanchordesign.com/services/fort-worth-branding
 - **Path:** /services/fort-worth-branding
 - **Section:** Services
-- **Sitemap last modified:** 2026-11-12
+- **Summary updated:** 2026-11-19
 - **Business:** [Black Anchor Design](../../business/black-anchor-design.md)
 
-Inventory coverage concept generated 2026-11-14 from the live sitemap (lastmod shown). Title is derived from the URL slug — it is not a claim about the page's full content. Enrich from the live page before relying on detailed claims from this stub.
+A brand identity system includes primary and secondary logo versions, color, typography and usage standards. Scoped applications may include websites, proposals, presentations, printed materials, apparel, vehicles, equipment or job-site signage.
+
+Reasons to review an identity include entering a new market, bidding on larger projects, changing leadership or finding that materials no longer represent what the company can do.
+
+Related: [Brand Strategy](fort-worth-brand-strategy.md), [Web Design](fort-worth-web-design.md), [Print Design](fort-worth-print-design.md).
